@@ -2,9 +2,8 @@
 - 👀 I’m interested in Coding   
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ja
-- ⚡ Fun fact: ...
+- 📫 You can text me in ig taha__yassir
+- 😄 Pronouns: FEKAKeLZ7AYLee
 
 <!---
 tboutaib/tboutaib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
